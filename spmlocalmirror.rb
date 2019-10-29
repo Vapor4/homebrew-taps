@@ -4,8 +4,8 @@
 class Spmlocalmirror < Formula
   desc "Swift Package Manager本地镜像加速器"
   homepage "SPMLocalMirror"
-  url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.1.tar.gz"
-  sha256 "4be6746e5e5c14eca9956d3cb076a22d298410f4ce356ff16f1b7cd0a8958737"
+  url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.2.tar.gz"
+  sha256 "fd4cde9d235e8cd1109d637fedee9fee166bf5efa94ee7181077eb0113d3af19"
 
   # depends_on "cmake" => :build
   def install
