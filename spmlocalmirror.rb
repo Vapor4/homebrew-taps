@@ -10,7 +10,7 @@ class Spmlocalmirror < Formula
   stable do
     version "0.1.4"
     url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.5.tar.gz"
-    sha256 "c85ef2401391e32d6adae1631835c823bf072a0feee37df9ef8c1a37f3b68cd8"
+    sha256 "517f10835ea65d0f1f7d499f6781d8269dbac413c366484219b1bf138569aebe"
   end
   def install
     system "swift", "build", "--disable-sandbox"
