@@ -8,7 +8,7 @@ class Spmlocalmirror < Formula
 
   depends_on :xcode => "11"
   stable do
-    version "0.1.4"
+    version "0.1.5"
     url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.5.tar.gz"
     sha256 "517f10835ea65d0f1f7d499f6781d8269dbac413c366484219b1bf138569aebe"
   end
