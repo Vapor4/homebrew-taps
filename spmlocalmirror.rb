@@ -8,9 +8,9 @@ class Spmlocalmirror < Formula
 
 #   depends_on :xcode => "11"
   stable do
-    version "0.1.7"
-    url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.7.tar.gz"
-    sha256 "bb39c81d83f9f185928c77f9eba53ec8ab9167b8700b0a9c2167d4eb4a6867fc"
+    version "0.1.8"
+    url "https://github.com/Vapor4/SPMLocalMirror/archive/0.1.8.tar.gz"
+    sha256 "b208d73aa8c961a14edc8ecbf7f5fef3c4158db41265abf0a16b2c0b79d98cde"
   end
   def install
     system "swift", "build", "--disable-sandbox"
